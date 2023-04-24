@@ -1,6 +1,8 @@
 # vue---
 vue
 介绍：一个基于Vue框架开发的音乐播放器应用，可以搜索歌曲、播放音乐、查看音乐详情和登录等功能。
+后台 GitHub 地址
+https://github.com/Binaryify/NeteaseCloudMusicApi
 
 相关技术：Vue.js+axios+Vue-Router+Vuex+Element UI+Webpack
 
