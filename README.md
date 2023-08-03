@@ -28,6 +28,7 @@ Sass作为CSS预处理器，实现了更加简洁、灵活和可维护的CSS样�
 载等方法，提升了移动端用户的体验和使用效果。
 
 预览：![E@49@V94(M6V%``5HOAEQA5](https://github.com/jiangjiang1116/vue---/assets/48378932/480582bc-d7d2-4550-b374-21213e5d5685)
-![Uploading %I[Y{TVKQBX{[9]ACY}OUQO.png…]()
+![%I Y{TVKQBX{ 9 ACY}OUQO](https://github.com/jiangjiang1116/vue---/assets/48378932/8cc7ad56-7aea-4ee3-8f02-6c477b4f7a96)
+
 
 
